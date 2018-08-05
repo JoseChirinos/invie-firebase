@@ -1,0 +1,22 @@
+{
+  "name": "invie-responsive-firebase",
+  "version": "1.0.0",
+  "description": "Aprendiendo mas a fondo firebase con invie",
+  "main": "index.js",
+  "scripts": {
+    "start": "firebase serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "html",
+    "firebase",
+    "web"
+  ],
+  "author": "Jose Chirinos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeonidasEsteban/invie-responsive/issues"
+  },
+  "homepage": "https://github.com/LeonidasEsteban/invie-responsive#readme"
+}
